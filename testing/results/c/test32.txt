@@ -1,0 +1,2 @@
+Number of uppercase letters: 44
+Number of lowercase letters: 35

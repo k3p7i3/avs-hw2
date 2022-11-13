@@ -1,0 +1,2 @@
+Number of uppercase letters: 11
+Number of lowercase letters: 18

@@ -1,0 +1,2 @@
+Number of uppercase letters: 7
+Number of lowercase letters: 10

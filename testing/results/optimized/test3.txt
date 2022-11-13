@@ -1,0 +1,2 @@
+Number of uppercase letters: 67
+Number of lowercase letters: 0

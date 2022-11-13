@@ -1,0 +1,2 @@
+Number of uppercase letters: 284
+Number of lowercase letters: 277
